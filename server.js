@@ -4,7 +4,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors(
     {
-        origin: "https://666ff2cff9e5241d9dd3e08d--storied-lamington-bbaef6.netlify.app"
+        origin: "https://666ff7d7cdc660222d045ee7--reliable-klepon-d4763b.netlify.app"
     }
 ));
 app.use(express.json());
